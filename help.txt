@@ -1,0 +1,7 @@
+help: show a list of available commands
+pwd: print working directory
+cat: read a document
+echo: print a string to the screen
+
+
+
