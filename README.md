@@ -1,6 +1,10 @@
 # minishell
 
-En implementasjon av noen av de viktigste kommandoene i bash. Implementert i C.
+En implementasjon av noen av de viktigste kommandoene i bash. Implementert i C. 
+
+# Kjøring: 
+Kompiler ved å skrive "make" i terminalen. Pass på at alle filene er i samme mappe. \
+Kjør så programmet ved å skrive "./main" 
 
 # Neste steg:
 Implementere flere kommandoer og tjenester, deriblant ls, mkdir, pipes \
